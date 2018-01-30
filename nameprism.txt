@@ -1,0 +1,50 @@
+We would like to acknowledge NamePrism which kindly supported IACP by
+providing access to its API.One of the methodologies used by IACP to
+determine nationality and ethnicity relies on the results from NamePrism's
+algorithm (http://www.name-prism.com/).
+
+If you are using NamePrism data, please cite:
+Junting Ye, Shuchu Han, Yifan Hu, Baris Coskun, Meizhu Liu, Hong Qin and Steven Skiena.
+Nationality Classification using Name Embeddings.
+CIKM, Singapore, Nov. 2017, pp. 1897-1906.
+
+The dictionary below provides the mapping from index to the NamePrism result:
+[1:'European,SouthSlavs',
+2:'Muslim,Pakistanis,Bangladesh',
+3:'European,Italian,Italy',
+4:'European,Baltics',
+5:'African,SouthAfrican',
+6:'European,Italian,Romania',
+7:'Muslim,Nubian',
+8':European,French',
+9':EastAsian,Indochina,Thailand',
+10':EastAsian,Indochina,Vietnam',
+11':Jewish',
+12':Muslim,Turkic,CentralAsian',
+13':EastAsian,Indochina,Cambodia',
+14':Nordic,Scandinavian,Denmark',
+15':EastAsian,Indochina,Myanmar',
+16':Nordic,Finland',
+17':Muslim,Persian',
+18':Nordic,Scandinavian,Sweden',
+19':Muslim,Maghreb',
+20':Greek',
+21':Muslim,Pakistanis,Pakistan',
+22':Hispanic,Portuguese',
+23':European,Russian',
+24':Muslim,ArabianPeninsula',
+25':African,WestAfrican',
+26':EastAsian,Japan',
+27':European,German',
+28':EastAsian,Chinese',
+29':SouthAsian',
+30':Hispanic,Spanish',
+31':Nordic,Scandinavian,Norway',
+32':Muslim,Turkic,Turkey',
+33':Hispanic,Philippines',
+34':CelticEnglish',
+35':EastAsian,Malay,Malaysia',
+36':EastAsian,South Korea',
+37':African,EastAfrican',
+38':European,EastEuropean',
+39':EastAsian,Malay,Indonesia']
